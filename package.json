@@ -1,0 +1,40 @@
+{
+  "name": "roaring-frc-extensions",
+  "displayName": "Roaring-FRC-extensions",
+  "description": "a collection of useful tools for FRC by Roaring Robotics 2704",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "YouMayCallMeV.vscode-java-saber",
+    "felipecaputo.git-project-manager",
+    "christian-kohler.path-intellisense",
+    "vsls-contrib.gitdoc",
+    "vsls-contrib.gistfs",
+    "ms-vscode-remote.remote-containers",
+    "vscode.git",
+    "ms-vsliveshare.vsliveshare",
+    "vscode.github-authentication",
+    "vscode.json-language-features",
+    "vscode.merge-conflict",
+    "vscode.github",
+    "ms-vscode-remote.remote-wsl-recommender",
+    "vscode.typescript-language-features",
+    "ms-vscode-remote.remote-wsl",
+    "TeamHub.teamhub",
+    "ZainChen.json",
+    "eamodio.gitlens",
+    "vscode.emmet",
+    "vscode.npm",
+    "aaron-bond.better-comments",
+    "alefragnani.Bookmarks",
+    "PKief.material-icon-theme",
+    "vscode.debug-auto-launch",
+    "spencerwmiles.vscode-task-buttons",
+    "vscode.git-base"
+  ]
+}
