@@ -35,6 +35,6 @@
     "PKief.material-icon-theme",
     "vscode.debug-auto-launch",
     "spencerwmiles.vscode-task-buttons",
-    "vscode.git-base"
+    "vscode.git-base",
   ]
 }
